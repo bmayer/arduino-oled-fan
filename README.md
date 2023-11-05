@@ -3,13 +3,13 @@
 ## OLED SPI wiring
 | OLED Pin | Arduino Pin | Wire |
 | ----------- | ----------- | ----------- |
-| Vcc | 5v | red |
+| Vcc | 5v | rd |
 | Gnd | Gnd | bk |
-| D0/CLK | 10 | |
-| D1/MOSI | 9 | |
-| RES | 13 | |
-| DC | 11 | |
-| CS | 12 | |
+| D0/CLK | 10 | gn |
+| D1/MOSI | 9 | bl |
+| RES | 13 | pr |
+| DC | 11 | or |
+| CS | 12 | yl |
 
 ## Required Libraries
 - Adafruit SSD1306
